@@ -1,0 +1,33 @@
+body {
+  background-color: #fafad2;
+  margin-left:15;
+  border-left: 15px;
+}
+
+h2 {
+  color: #153e90;
+}
+
+h3 {
+  color: #153e90;
+  margin-top: 0;
+}
+
+hr {
+  border-style: none;
+  border-width: 1px;
+  width: 5%;
+
+}
+
+img:hover {
+  background-color: #9ad3bc;
+}
+
+.wordmark {
+  background-color: #9ad3bc;
+}
+
+div {
+  background-color: #9ad3bc;
+}
